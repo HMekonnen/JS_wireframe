@@ -1,0 +1,14 @@
+.Header{
+    background-color: beige;
+    color: magenta;
+ grid-area: header;
+   height: 65%;
+   width: 110%;
+   margin-left: 13.5%;
+   margin-top: 10%;
+   font-size: xx-large;
+   font-weight: bolder;
+
+
+
+}

@@ -1,0 +1,27 @@
+body{
+    background-color: lightblue;
+   
+}
+
+.Container{
+    display: grid;
+    grid-template-columns: repeat(4,2fr);
+    grid-template-rows:  repeat(3,2fr) ;
+    justify-content: center;
+background-color: grey;
+height: 1400px;
+grid-template-areas: 
+
+" header contentA contentB contentC"
+"sidebar  contentD contentD contentD"
+"sidebar contentD contentD contentD"
+
+
+;
+grid-gap: 3%;
+margin-top: 1.5%;
+margin-left: 2.5%;
+margin-right: 2.5%;
+
+}
+

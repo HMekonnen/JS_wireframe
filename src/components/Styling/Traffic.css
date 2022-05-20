@@ -1,0 +1,21 @@
+.Traffic{
+    background-color: lightcyan;
+    color: blue;
+   grid-area: contentC;
+   width: 70%;
+   height: 100%;
+  margin-top: 8%;
+  margin-right: 10%;
+  line-height: 200%;
+font-weight: bold;
+font-size: xx-large;
+  
+   
+
+}
+
+.Traffic:hover{
+  filter: drop-shadow(0 0 40px);
+  transform:scale(1.10);
+
+}

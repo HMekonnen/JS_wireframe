@@ -1,0 +1,33 @@
+
+.UserStats{
+    background-color:palegreen;
+color: brown;
+grid-area: contentD;
+width: 95%;
+margin-top: 5%;
+margin-right: 10%;
+font-size: x-large;
+font-weight: bold;
+    
+
+
+}
+
+.UserStats:hover{
+    filter: drop-shadow(0 0 40px);
+    transform:scale(1.10);
+
+}
+
+
+.barGraph {
+    box-sizing: border-box;
+    border-style: dashed black;
+    width: 80%;
+    height: 70%;
+    background-color: black;
+    margin-left: 5%;
+    margin-top: 3%;
+    background-size:cover;
+    background-image: url(https://www.indiabix.com/_files/images/data-interpretation/bar-charts/15-1-10-1.png );
+}

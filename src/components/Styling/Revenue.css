@@ -1,0 +1,32 @@
+.Revenue{
+    background-color: lightblue;
+color: orange;
+grid-area: contentA;
+width: 70%;
+   height: 100%;
+  margin-top: 8%;
+  margin-left: 22%;
+  font-size: xx-large;
+font-weight: bold;
+
+}
+
+.Revenue:hover{
+  filter: drop-shadow(0 0 40px);
+  transform:scale(1.10);
+
+}
+
+.RevStats{
+  border-style: double black;
+  text-align: center;
+  margin-top: 30%;
+  font-size: xx-large;
+  font-weight: bold;
+}
+
+.RevStats:hover{
+  filter: drop-shadow(0 0 40px);
+  transform:scale(1.10);
+
+}

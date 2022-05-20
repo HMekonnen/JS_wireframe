@@ -1,0 +1,28 @@
+.Reviews{
+    background-color: lightpink;
+    color: crimson;
+    grid-area:contentB ;
+    width: 70%;
+   height: 100%;
+  margin-top: 8%;
+  margin-left: 10%;
+  font-size: xx-large;
+font-weight: bold;
+  
+    
+}
+
+.Reviews:hover{
+  filter: drop-shadow(0 0 40px);
+  transform:scale(1.10);
+
+}
+
+.starsImg{
+  width: 100%;
+  height: 75%;
+  background-size:cover;
+  background-image:url(https://richmond-industries.com/wp-content/uploads/2018/06/Richmond-Industries-Star-Rating.png) ;
+margin-top: 20%;
+
+}

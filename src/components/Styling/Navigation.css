@@ -1,0 +1,22 @@
+.Navigation{
+   
+ color: blue;
+ background-color: aquamarine;
+align-self: flex-start stretch;
+grid-area: sidebar;
+width: 60%;
+height: 100%;
+margin-left: 30%;
+font-size: xx-large;
+font-weight: bold;
+line-height: 300%;
+
+
+}
+
+.Navigation:hover{
+    filter: drop-shadow(0 0 40px);
+    transform:scale(1.10);
+
+}
+
